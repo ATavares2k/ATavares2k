@@ -1,6 +1,7 @@
 👨‍💻 Frontend Developer
 
 🚀 About Me
+
 Currently working at Merkle DACH as a junior Web Frontend developer.
 
 I consider myself a social person, always waiting for a joke, and in other hand I know how to be professional and responsible, obstinated for my goals.
